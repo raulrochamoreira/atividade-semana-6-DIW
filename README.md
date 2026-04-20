@@ -26,8 +26,8 @@ Refatoração da home-page criada na etapa anterior, substituindo a abordagem de
 *Nota: Por se tratar de um repositório submetido por agente automatizado, as imagens abaixo são representativas dos frames. Substitua pelas imagens reais se desejar enviá-las na raiz.*
 
 #### Desktop
-![Print Desktop](https://via.placeholder.com/1200x800.png?text=Versao+Desktop+Bootstrap)
+
 
 #### Mobile
-![Print Mobile](https://via.placeholder.com/400x800.png?text=Versao+Mobile+Bootstrap)
+
 
